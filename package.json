@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
-  "proxy": "http://localhost:8075",
-  "homepage": "https://weblab.nees.com.br/breno",
-  "basename": "/breno",
+  "proxy": "http://localhost:8061",
+  "homepage": "https://weblab.nees.com.br/mauro",
+  "basename": "/mauro",
   "engines" : { 
     "npm" : ">=8.8.0",
     "node" : "14.x"
