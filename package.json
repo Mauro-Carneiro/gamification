@@ -4,7 +4,7 @@
   "license": "MIT",
   "private": true,
   "proxy": "http://localhost:8061",
-  "homepage": "https://weblab.nees.com.br/mauro",
+  "homepage": "https://weblab.nees.com.br/mauro/",
   "basename": "/mauro",
   "engines" : { 
     "npm" : ">=8.8.0",
