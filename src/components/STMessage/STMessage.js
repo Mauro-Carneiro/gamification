@@ -27,7 +27,7 @@ export default class STMessage extends React.Component {
         this.chart.options.data[0].dataPoints[2].y =  val;
         this.chart.render();
 
-        if (event.target.value != null && event.target.value != '' && val > 0)
+        if (event.target.value !== null && event.target.value !== '' && val > 0)
             this.setState({ continue: true });
         else
             this.setState({ continue: false });
@@ -37,7 +37,7 @@ export default class STMessage extends React.Component {
         let localization = this.context.environment.localization;
         let stMessage = localization.stMessage;
 
-        if (stMessage.chart != undefined) {
+        if (stMessage.chart !== undefined) {
             const options = {
                 title: { text: stMessage.chart.title },
                 data: [{
