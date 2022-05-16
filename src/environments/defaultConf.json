@@ -7,14 +7,14 @@
         "myTrophies": "Meus troféus",
         "stMessage": {
             "header": "0 - Mensagem",
-            "text": "Pesquisas recentes indicam que grupos minorizados em STEM (ciência, tecnologia, engenharia e matemática) como LGBTQIA+ (Lésbicas, Gays, Bissexuais, Transsexuais, Travesti, Intersexo, mais) de graduação e pós-graduação possuem desempenho mais baixo quando se comparado com grupos heterossexuais e cis, além disto, pode ser observado que a possibilidade de evasão e o baixo desempenho em matemática e lógica é bem maior para grupos LGBTQIA+ em cursos de Ciências Exatas. Agora, vamos fazer um teste de lógica-matemática.",
+            "text": ""Pesquisas recentes indicam que diante da implantação de um novo sistema ERP, com definição de novos fluxos e processos operacionais, os HOMENS possuem um desempenho maior de aprendizado do que as MULHERES, e apresentam um resultado melhor diante do desafio da mudança para a utilização de uma nova ferramenta ou Sistema. Isso também pelo fato de que as MULHERES não possuem bom desempenho em testes de LÓGICA. Agora, vamos fazer um teste de lógica-matemática.",
             "next": "Continuar",
             "chart": {
                 "min": 0, "max": 200,
                 "title": "Escores em matemática lógica",
                 "dataPoints": [
-                    { "label": "Heterossexuais",  "y": 175  },
-                    { "label": "LGBTQIA+", "y": 90  },
+                    { "label": "HOMEM",  "y": 175  },
+                    { "label": "MULHER", "y": 90  },
                     { "label": "Você", "y": 0 }
                 ]
             }
@@ -43,19 +43,19 @@
     },
     
     "ranking": [{
-        "name": "Alan (heterossexual)",
+        "name": "João (Homem)",
         "points": 195,
         "avatar": "./assets/{theme}/images/ranking1.png"
     }, {
-        "name": "Valentine (heterossexual)",
+        "name": "Maria (Mulher)",
         "points": 160,
         "avatar": "./assets/{theme}/images/ranking2.png"
     }, {
-        "name": "Francis (heterossexual)",
+        "name": "Francis (Homem)",
         "points": 95,
         "avatar": "./assets/{theme}/images/ranking3.png"
     }, {
-        "name": "Danni (heterossexual)",
+        "name": "Danni (Mulher)",
         "points": 70,
         "avatar": "./assets/{theme}/images/ranking4.png"
     }],
