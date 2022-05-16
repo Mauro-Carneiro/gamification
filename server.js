@@ -180,7 +180,7 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname+'/build/index.html'));
 });
 
-const port = process.env.SERVER_PORT || 5000;
+const port = process.env.SERVER_PORT || 3000;
 app.listen(port, function() {
     console.log(`The server is listening to localhost:${port}`);
 
