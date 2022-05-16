@@ -19,8 +19,8 @@
         }
     },
 
-    "preTest": "",
-    "postTest": "",
+    "preTest": "https://weblab.nees.com.br/limesurvey/index.php/365135?lang=pt-BR&sessionId={{sessionId}}",
+    "postTest": "https://weblab.nees.com.br/limesurvey/index.php/374873?lang=pt-BR&sessionId={{sessionId}}",
 
     "playSound": true,
 
