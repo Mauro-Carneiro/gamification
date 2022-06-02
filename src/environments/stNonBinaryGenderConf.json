@@ -61,7 +61,8 @@
     "avatarList": [
         "./assets/stNonBinaryGender/images/avatar1.png",
         "./assets/stNonBinaryGender/images/avatar2.png",
-        "./assets/stNonBinaryGender/images/avatar3.png"
+        "./assets/stNonBinaryGender/images/avatar3.png",
+        "./assets/stNonBinaryGender/images/avatar4.png"
     ]
 
 }
