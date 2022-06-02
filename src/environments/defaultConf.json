@@ -63,7 +63,8 @@
     "avatarList": [
         "./assets/default/images/avatar1.png",
         "./assets/default/images/avatar2.png",
-        "./assets/default/images/avatar3.png"
+        "./assets/default/images/avatar3.png",
+        "./assets/default/images/avatar4.png"
     ],
     
     "questions": [
