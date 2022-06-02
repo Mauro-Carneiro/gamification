@@ -43,19 +43,19 @@
 
     "ranking": [{
         "name": "João (Homem)",
-        "points": 195,
+        "points": 120,
         "avatar": "./assets/{theme}/images/ranking2.png"
     }, {
         "name": "Maria (Mulher)",
-        "points": 170,
+        "points": 178,
         "avatar": "./assets/{theme}/images/ranking1.png"
     }, {
         "name": "Francis (Homem)",
-        "points": 95,
+        "points": 75,
         "avatar": "./assets/{theme}/images/ranking4.png"
     }, {
         "name": "Danny (Mulher)",
-        "points": 70,
+        "points": 110,
         "avatar": "./assets/{theme}/images/ranking3.png"
     }],
     "avatarList": [
