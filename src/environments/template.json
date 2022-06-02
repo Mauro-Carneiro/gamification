@@ -50,7 +50,8 @@
     "avatarList": [
         "./assets/{theme}/images/avatar1.png",
         "./assets/{theme}/images/avatar2.png",
-        "./assets/{theme}/images/avatar3.png"
+        "./assets/{theme}/images/avatar3.png",
+        "./assets/{theme}/images/avatar4.png"
     ],
     
     "questions": [
