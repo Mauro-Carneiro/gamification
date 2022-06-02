@@ -13,8 +13,8 @@
                 "min": 0, "max": 200,
                 "title": "Escores em matemática lógica",
                 "dataPoints": [
-                    { "label": "MULHERES",  "y": 90  },
-                    { "label": "HOMENS", "y": 175  },
+                    { "label": "MULHERES",  "y": 180  },
+                    { "label": "HOMENS", "y": 95  },
                     { "label": "Você", "y": 0 }
                 ]
             }
@@ -50,11 +50,11 @@
         "points": 170,
         "avatar": "./assets/{theme}/images/ranking2.png"
     }, {
-        "name": "Francis (transexual)",
+        "name": "Francis (Homem)",
         "points": 95,
         "avatar": "./assets/{theme}/images/ranking3.png"
     }, {
-        "name": "Danny (homossexual)",
+        "name": "Danny (Mulher)",
         "points": 70,
         "avatar": "./assets/{theme}/images/ranking4.png"
     }],
