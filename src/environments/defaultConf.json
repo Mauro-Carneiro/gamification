@@ -48,11 +48,11 @@
         "avatar": "./assets/{theme}/images/ranking2.png"
     }, {
         "name": "Maria (Mulher)",
-        "points": 160,
+        "points": 85,
         "avatar": "./assets/{theme}/images/ranking1.png"
     }, {
         "name": "Francis (Homem)",
-        "points": 95,
+        "points": 180,
         "avatar": "./assets/{theme}/images/ranking4.png"
     }, {
         "name": "Danny (Mulher)",
